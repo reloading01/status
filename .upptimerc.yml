@@ -8,7 +8,7 @@ sites:
     url: https://certstream.dev
 
 status-website:
-  baseUrl: /status
+  cname: status.certstream.dev
   logoUrl: https://certstream.dev/favicon.svg
   name: CertStream status
   introTitle: "**CertStream** uptime"
